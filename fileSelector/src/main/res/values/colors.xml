@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="rail_color_primary">#434150</color>
+    <color name="rail_color_primary_dark">#27262f</color>
+    <color name="rail_color_accent">#00c381</color>
+    <color name="rail_button_focus">#01714b</color>
+    <color name="rail_text_color">#fff</color>
+    <color name="rail_textColor_Primary">#fff</color>
+    <color name="rail_swl_color_1">#9900C381</color>
+    <color name="rail_swl_color_2">#BF00C381</color>
+    <color name="rail_swl_color_3">#CC00C381</color>
+    <color name="rail_swl_color_4">#E600C381</color>
+    <color name="rail_swl_color_5">#00c381</color>
+    <integer-array name="rail_swl_colors">
+        <item>@color/rail_swl_color_1</item>
+        <item>@color/rail_swl_color_2</item>
+        <item>@color/rail_swl_color_3</item>
+        <item>@color/rail_swl_color_4</item>
+        <item>@color/rail_swl_color_5</item>
+    </integer-array>
+
+    <color name="shrine_text_color">#48282c</color>
+
+</resources>
