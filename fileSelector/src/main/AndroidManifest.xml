@@ -5,7 +5,8 @@
     <application>
         <activity
             android:name=".FilePickerActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:theme="@style/FilePickerThemeRail" />
     </application>
 
 </manifest>
